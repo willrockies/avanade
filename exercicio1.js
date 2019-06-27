@@ -5,3 +5,4 @@ function hello(callback){
 hello(function(){
     console.log("hello world")
 })
+console.log("teste")
